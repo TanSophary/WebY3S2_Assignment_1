@@ -1,0 +1,35 @@
+Input: 1200
+English: One Thousand Two Hundred Riel
+Khmer: មួយ ពាន់ ពីរ រយ រៀល
+USD: 0.3 $
+---
+Input: 4000
+English: Four Thousand Riel
+Khmer: បួន ពាន់ រៀល
+USD: 1 $
+---
+Input: 4000
+English: Four Thousand Riel
+Khmer: បួន ពាន់ រៀល
+USD: 1 $
+---
+Input: 5000
+English: Five Thousand Riel
+Khmer: ប្រាំ ពាន់ រៀល
+USD: 1.25 $
+---
+Input: 82000
+English: Eighty Two Thousand Riel
+Khmer: ប៉ែតសិបពីរ ពាន់ រៀល
+USD: 20.5 $
+---
+Input: 8200
+English: Eight Thousand Two Hundred Riel
+Khmer: ប្រាំបី ពាន់ ពីរ រយ រៀល
+USD: 2.05 $
+---
+Input: 8500
+English: Eight Thousand Five Hundred Riel
+Khmer: ប្រាំបី ពាន់ ប្រាំ រយ រៀល
+USD: 2.13 $
+---
